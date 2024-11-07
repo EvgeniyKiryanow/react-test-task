@@ -1,0 +1,19 @@
+.task {
+    &-list-wrapper {
+        margin-top: 20px;
+        padding: 20px;
+        border-radius: 15px;
+        .form-group {
+            padding: 10px 0;
+        }
+    }
+    width: 96%;
+    margin: 0 auto;
+    .create-btn {
+        display: flex;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin-top: 15px;
+    }
+}
